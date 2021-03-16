@@ -1,0 +1,135 @@
+.game-stats
+  .container
+    .game-board
+      display: flex
+      flex-direction: column
+      text-align: center
+      .timestamp
+        width: 100%
+      .score
+        width: 100%
+        font-size: 40px
+        margin: 20px
+        display: flex
+        justify-content: center
+        align-items: center
+        input
+          background-color: transparent
+          border: none
+          font-size: 40px
+          &:hover
+            cursor: pointer
+            color: #444
+            text-decoration: underline 3px #444
+
+      .events
+        display: flex
+        justify-content: space-between
+        .goal
+          display: flex
+          justify-content: flex-start
+          padding: 10px
+          .goal-icon
+            width: 20px
+            height: 20px
+            display: block
+            background: url('goal-icon.png') center no-repeat
+            background-size: cover
+            margin-right: 5px
+        .card
+          display: flex
+          justify-content: flex-start
+          padding: 10px
+          .card-square
+            width: 15px
+            height: 18px
+            display: block
+            margin-right: 5px
+        .substitution
+          display: flex
+          justify-content: flex-start
+          padding: 10px
+          .arrow-down
+            background: url('arrow-down.svg') center no-repeat
+            width: 15px
+            height: 18px
+            display: block
+            margin-right: 5px
+          .arrow-up
+            background: url('arrow-up.svg') center no-repeat
+            width: 15px
+            height: 18px
+            display: block
+            margin-left: 5px
+            margin-right: 5px
+      .players
+        display: flex
+        justify-content: space-between
+        .player
+          display: flex
+          justify-content: flex-start
+          align-items: center
+          padding: 10px
+          margin: 2px
+          .shirt-icon
+            background: url('shirt-icon.webp') center no-repeat
+            background-size: cover
+            width: 50px
+            height: 50px
+            display: flex
+            justify-content: center
+            align-items: center
+            margin-right: 5px
+        .title
+          padding: 10px
+          font-size: 16px
+          margin: 0px
+      h3, p.title
+        background-color: #4CAF50
+        color: white
+        padding: 10px
+      h3
+        margin-bottom: 0px
+
+      .home
+        margin-right: 100px
+        min-width: 300px
+      .away
+        margin-left: 100px
+        min-width: 300px
+      .team-name
+        background-color: #333
+        color: white
+        padding: 10px
+        margin-top: 0px
+      .players 
+        .team-name
+            margin-bottom: 0px
+      
+@media ( max-width: 1024px )
+  .game-stats
+    .container
+      .game-board
+        font-size: 14px
+        .score
+          font-size: 28px
+          margin: 20px 0px
+          input
+           font-size: 28px
+        .home
+          margin-right: 50px
+        .away
+          margin-left: 50px
+@media ( max-width: 768px )
+  .game-stats
+    .container
+      .game-board
+        font-size: 14px
+        .events
+          flex-direction: column
+          justify-content: center
+        .players
+          flex-direction: column
+          justify-content: center
+        .home, .away
+          margin: 0px

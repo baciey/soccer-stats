@@ -1,0 +1,456 @@
+{
+  "data": [
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 15702, "name": "Barcelona", "shortName": "Barcelona" },
+      "position": 1,
+      "played": 38,
+      "wins": 26,
+      "draws": 9,
+      "losses": 3,
+      "for": 90,
+      "against": 36,
+      "difference": 54,
+      "points": 87,
+      "notes": "UEFA Champions League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15692,
+        "name": "Atlético Madrid",
+        "shortName": "Atl Madrid"
+      },
+      "position": 2,
+      "played": 38,
+      "wins": 22,
+      "draws": 10,
+      "losses": 6,
+      "for": 55,
+      "against": 29,
+      "difference": 26,
+      "points": 76,
+      "notes": "UEFA Champions League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16110,
+        "name": "Real Madrid",
+        "shortName": "Real Madrid"
+      },
+      "position": 3,
+      "played": 38,
+      "wins": 21,
+      "draws": 5,
+      "losses": 12,
+      "for": 63,
+      "against": 46,
+      "difference": 17,
+      "points": 68,
+      "notes": "UEFA Champions League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16261, "name": "Valencia", "shortName": "Valencia" },
+      "position": 4,
+      "played": 38,
+      "wins": 15,
+      "draws": 16,
+      "losses": 7,
+      "for": 51,
+      "against": 35,
+      "difference": 16,
+      "points": 61,
+      "notes": "UEFA Champions League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16017, "name": "Getafe", "shortName": "Getafe" },
+      "position": 5,
+      "played": 38,
+      "wins": 15,
+      "draws": 14,
+      "losses": 9,
+      "for": 48,
+      "against": 35,
+      "difference": 13,
+      "points": 59,
+      "notes": "UEFA Europa League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16175, "name": "Sevilla", "shortName": "Sevilla" },
+      "position": 6,
+      "played": 38,
+      "wins": 17,
+      "draws": 8,
+      "losses": 13,
+      "for": 62,
+      "against": 47,
+      "difference": 15,
+      "points": 59,
+      "notes": "UEFA Europa League"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16009, "name": "Espanyol", "shortName": "Espanyol" },
+      "position": 7,
+      "played": 38,
+      "wins": 14,
+      "draws": 11,
+      "losses": 13,
+      "for": 48,
+      "against": 50,
+      "difference": -2,
+      "points": 53,
+      "notes": "UEFA Europa League Qualifiers"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15679,
+        "name": "Athletic Club",
+        "shortName": "Athletic Club"
+      },
+      "position": 8,
+      "played": 38,
+      "wins": 13,
+      "draws": 14,
+      "losses": 11,
+      "for": 41,
+      "against": 45,
+      "difference": -4,
+      "points": 53,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16117,
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad"
+      },
+      "position": 9,
+      "played": 38,
+      "wins": 13,
+      "draws": 11,
+      "losses": 14,
+      "for": 45,
+      "against": 46,
+      "difference": -1,
+      "points": 50,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16107, "name": "Real Betis", "shortName": "Real Betis" },
+      "position": 10,
+      "played": 38,
+      "wins": 14,
+      "draws": 8,
+      "losses": 16,
+      "for": 44,
+      "against": 52,
+      "difference": -8,
+      "points": 50,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15997,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés"
+      },
+      "position": 11,
+      "played": 38,
+      "wins": 13,
+      "draws": 11,
+      "losses": 14,
+      "for": 39,
+      "against": 50,
+      "difference": -11,
+      "points": 50,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16006, "name": "Eibar", "shortName": "Eibar" },
+      "position": 12,
+      "played": 38,
+      "wins": 11,
+      "draws": 14,
+      "losses": 13,
+      "for": 46,
+      "against": 50,
+      "difference": -4,
+      "points": 47,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 15833, "name": "Leganés", "shortName": "Leganés" },
+      "position": 13,
+      "played": 38,
+      "wins": 11,
+      "draws": 12,
+      "losses": 15,
+      "for": 37,
+      "against": 43,
+      "difference": -6,
+      "points": 45,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16270, "name": "Villarreal", "shortName": "Villarreal" },
+      "position": 14,
+      "played": 38,
+      "wins": 10,
+      "draws": 14,
+      "losses": 14,
+      "for": 49,
+      "against": 52,
+      "difference": -3,
+      "points": 44,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16043, "name": "Levante", "shortName": "Levante" },
+      "position": 15,
+      "played": 38,
+      "wins": 11,
+      "draws": 11,
+      "losses": 16,
+      "for": 59,
+      "against": 66,
+      "difference": -7,
+      "points": 44,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16123,
+        "name": "Real Valladolid",
+        "shortName": "Real Valladolid"
+      },
+      "position": 16,
+      "played": 38,
+      "wins": 10,
+      "draws": 11,
+      "losses": 17,
+      "for": 32,
+      "against": 51,
+      "difference": -19,
+      "points": 41,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15934,
+        "name": "Celta de Vigo",
+        "shortName": "Celta Vigo"
+      },
+      "position": 17,
+      "played": 38,
+      "wins": 10,
+      "draws": 11,
+      "losses": 17,
+      "for": 53,
+      "against": 62,
+      "difference": -9,
+      "points": 41,
+      "notes": "None"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16021, "name": "Girona", "shortName": "Girona" },
+      "position": 18,
+      "played": 38,
+      "wins": 9,
+      "draws": 10,
+      "losses": 19,
+      "for": 37,
+      "against": 53,
+      "difference": -16,
+      "points": 37,
+      "notes": "Relegation"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16030, "name": "Huesca", "shortName": "Huesca" },
+      "position": 19,
+      "played": 38,
+      "wins": 7,
+      "draws": 12,
+      "losses": 19,
+      "for": 43,
+      "against": 65,
+      "difference": -22,
+      "points": 33,
+      "notes": "Relegation"
+    },
+    {
+      "season": { "id": 1, "name": "2018/2019" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16098,
+        "name": "Rayo Vallecano",
+        "shortName": "Rayo Vallecano"
+      },
+      "position": 20,
+      "played": 38,
+      "wins": 8,
+      "draws": 8,
+      "losses": 22,
+      "for": 41,
+      "against": 70,
+      "difference": -29,
+      "points": 32,
+      "notes": "Relegation"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+
+body
+  font-family: arial
+*
+  box-sizing: border-box
+button:focus, button:active, input[type=submit]:active, input[type=submit]:focus
+  outline: none
+h1, h2
+  margin: 20px auto
+  text-align: center
+.form-seasons
+  display: flex
+  justify-content: center
+  select
+    padding: 10px
+    margin: 10px 0px
+  input
+    padding: 9px
+    background-color: #fff
+    border-radius: 3px
+div.standings.section, div.calendar.section
+  width: 100%
+  display: none
+div.standings.section.active, div.calendar.section.active
+  display: block
+table.results-table
+  position: relative
+  td,th
+    padding: 8px
+  tr:hover
+    cursor: pointer
+    background-color: #999
+table
+  border-collapse: collapse
+  width: 100%
+  max-width: 650px
+  td, th
+    border: 1px solid #ddd
+    // padding: 8px
+    text-align: center
+  tr:nth-child(even)
+    background-color: #f2f2f2
+  th
+    padding-top: 12px
+    padding-bottom: 12px
+    padding: 12px
+    background-color: #4CAF50
+    color: white
+
+  td.team
+    padding: 0px
+    form
+      width: 100%
+      input[type=submit]
+        background-color: transparent
+        min-height: 35px
+        width: 100%
+        border: none
+        padding: 0px
+        font-weight: bold
+        &:hover
+          background-color: #333
+          cursor: pointer
+          color: #fff
+
+
+.container
+  display: flex
+  flex-direction: column
+  justify-content: space-around
+  align-items: center
+  .menu
+    width: 100%
+    display: flex
+    justify-content: center
+    span.big-btn
+      font-size: 24px
+      background-color: cadetblue
+      color: white
+      margin: 0px 10px
+      padding: 10px
+      &:hover
+        cursor: pointer
+        opacity: 0.7
+  .standings
+    .buttons
+      margin: 10px 0px
+      text-align: center
+    button.main-btn, .total-home-away button, .value-buttons button
+      background-color: #666
+      border: none
+      padding: 10px
+      color: white
+      &:hover
+        background-color: #777
+        cursor: pointer
+    button.main-btn.active, .total-home-away button.active, , .value-buttons button.active
+       background-color: #4CAF50
+    .navigation
+      margin: 10px
+      text-align: center
+      button
+        margin: 3px
+    .standings-table-wrapper
+      .standings-table
+        margin: 0 auto
+        .th-sort
+          background-color: #4CAF50
+          &:hover
+            background-color: #444
+            cursor: pointer
+        .th-sort.ascending
+          background-color: #444
+        .th-sort.descending
+          background-color: #666
+        .goals-percentage
+          &::after
+            content: '%'
+      
+
+
+
+
+@import 'sass/game-stats'
+@import 'sass/stats-page'
+
+
+
+@media ( max-width: 768px )
+  .container
+    .standings
+      font-size: 14px
+      .standings-table-wrapper
+        overflow-x: auto
+        table.standings-table
+          width: 100%
+    .calendar      
+      font-size: 14px
+

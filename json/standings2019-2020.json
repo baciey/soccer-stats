@@ -1,0 +1,452 @@
+{
+  "data": [
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16110,
+        "name": "Real Madrid",
+        "shortName": "Real Madrid"
+      },
+      "position": 1,
+      "played": 38,
+      "wins": 26,
+      "draws": 9,
+      "losses": 3,
+      "for": 70,
+      "against": 25,
+      "difference": 45,
+      "points": 87,
+      "notes": "Promotion - Champions League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 15702, "name": "Barcelona", "shortName": "Barcelona" },
+      "position": 2,
+      "played": 38,
+      "wins": 25,
+      "draws": 7,
+      "losses": 6,
+      "for": 86,
+      "against": 38,
+      "difference": 48,
+      "points": 82,
+      "notes": "Promotion - Champions League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15692,
+        "name": "Atlético Madrid",
+        "shortName": "Atl Madrid"
+      },
+      "position": 3,
+      "played": 38,
+      "wins": 18,
+      "draws": 16,
+      "losses": 4,
+      "for": 51,
+      "against": 27,
+      "difference": 24,
+      "points": 70,
+      "notes": "Promotion - Champions League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16175, "name": "Sevilla", "shortName": "Sevilla" },
+      "position": 4,
+      "played": 38,
+      "wins": 19,
+      "draws": 13,
+      "losses": 6,
+      "for": 54,
+      "against": 34,
+      "difference": 20,
+      "points": 70,
+      "notes": "Promotion - Champions League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16270, "name": "Villarreal", "shortName": "Villarreal" },
+      "position": 5,
+      "played": 38,
+      "wins": 18,
+      "draws": 6,
+      "losses": 14,
+      "for": 63,
+      "against": 49,
+      "difference": 14,
+      "points": 60,
+      "notes": "Promotion - Europa League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16117,
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad"
+      },
+      "position": 6,
+      "played": 38,
+      "wins": 16,
+      "draws": 8,
+      "losses": 14,
+      "for": 56,
+      "against": 48,
+      "difference": 8,
+      "points": 56,
+      "notes": "Promotion - Europa League (Group Stage)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16025, "name": "Granada", "shortName": "Granada" },
+      "position": 7,
+      "played": 38,
+      "wins": 16,
+      "draws": 8,
+      "losses": 14,
+      "for": 52,
+      "against": 45,
+      "difference": 7,
+      "points": 56,
+      "notes": "Promotion - Europa League (Qualification)"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16017, "name": "Getafe", "shortName": "Getafe" },
+      "position": 8,
+      "played": 38,
+      "wins": 14,
+      "draws": 12,
+      "losses": 12,
+      "for": 43,
+      "against": 37,
+      "difference": 6,
+      "points": 54,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16261, "name": "Valencia", "shortName": "Valencia" },
+      "position": 9,
+      "played": 38,
+      "wins": 14,
+      "draws": 11,
+      "losses": 13,
+      "for": 46,
+      "against": 53,
+      "difference": -7,
+      "points": 53,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16079, "name": "Osasuna", "shortName": "Osasuna" },
+      "position": 10,
+      "played": 38,
+      "wins": 13,
+      "draws": 13,
+      "losses": 12,
+      "for": 46,
+      "against": 54,
+      "difference": -8,
+      "points": 52,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15679,
+        "name": "Athletic Club",
+        "shortName": "Ath Bilbao"
+      },
+      "position": 11,
+      "played": 38,
+      "wins": 13,
+      "draws": 12,
+      "losses": 13,
+      "for": 41,
+      "against": 38,
+      "difference": 3,
+      "points": 51,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16043, "name": "Levante", "shortName": "Levante" },
+      "position": 12,
+      "played": 38,
+      "wins": 14,
+      "draws": 7,
+      "losses": 17,
+      "for": 47,
+      "against": 53,
+      "difference": -6,
+      "points": 49,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 16123,
+        "name": "Real Valladolid",
+        "shortName": "Real Valladolid"
+      },
+      "position": 13,
+      "played": 38,
+      "wins": 9,
+      "draws": 15,
+      "losses": 14,
+      "for": 32,
+      "against": 43,
+      "difference": -11,
+      "points": 42,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16006, "name": "Eibar", "shortName": "Eibar" },
+      "position": 14,
+      "played": 38,
+      "wins": 11,
+      "draws": 9,
+      "losses": 18,
+      "for": 39,
+      "against": 56,
+      "difference": -17,
+      "points": 42,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16107, "name": "Real Betis", "shortName": "Real Betis" },
+      "position": 15,
+      "played": 38,
+      "wins": 10,
+      "draws": 11,
+      "losses": 17,
+      "for": 48,
+      "against": 60,
+      "difference": -12,
+      "points": 41,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15997,
+        "name": "Deportivo Alavés",
+        "shortName": "Alavés"
+      },
+      "position": 16,
+      "played": 38,
+      "wins": 10,
+      "draws": 9,
+      "losses": 19,
+      "for": 34,
+      "against": 59,
+      "difference": -25,
+      "points": 39,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": {
+        "id": 15934,
+        "name": "Celta de Vigo",
+        "shortName": "Celta Vigo"
+      },
+      "position": 17,
+      "played": 38,
+      "wins": 7,
+      "draws": 16,
+      "losses": 15,
+      "for": 37,
+      "against": 49,
+      "difference": -12,
+      "points": 37,
+      "notes": ""
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 15833, "name": "Leganés", "shortName": "Leganés" },
+      "position": 18,
+      "played": 38,
+      "wins": 8,
+      "draws": 12,
+      "losses": 18,
+      "for": 30,
+      "against": 51,
+      "difference": -21,
+      "points": 36,
+      "notes": "Relegation - LaLiga2"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16052, "name": "Mallorca", "shortName": "Mallorca" },
+      "position": 19,
+      "played": 38,
+      "wins": 9,
+      "draws": 6,
+      "losses": 23,
+      "for": 40,
+      "against": 65,
+      "difference": -25,
+      "points": 33,
+      "notes": "Relegation - LaLiga2"
+    },
+    {
+      "season": { "id": 3, "name": "2019/2020" },
+      "competition": {
+        "id": 24,
+        "name": "La Liga",
+        "key": "LFP",
+        "region": "Spain"
+      },
+      "group": null,
+      "team": { "id": 16009, "name": "Espanyol", "shortName": "Espanyol" },
+      "position": 20,
+      "played": 38,
+      "wins": 5,
+      "draws": 10,
+      "losses": 23,
+      "for": 27,
+      "against": 58,
+      "difference": -31,
+      "points": 25,
+      "notes": "Relegation - LaLiga2"
+    }
+  ]
+}
